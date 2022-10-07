@@ -16,7 +16,7 @@ export default function Searching() {
     const [loading, setLoading] = useState(false);
     const [apistatus, setApiStatus] = useState(false);
     const info = 'fillIngredients=true&addRecipeInformation=true&instructionsRequired=true'
-    const API_KEY = '03ac66a7504a4065abadf4f9083cb6ef'
+    const API_KEY = 'your-api-key'
     
     const navigation = useNavigation();
 
