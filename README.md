@@ -58,11 +58,12 @@ Thrifty Cook is a grocery list generator which will assist you in meal planning 
 ```sh
 npm install
 ```
-8. Once the installation of additional modules is finished, type the below command to run the application:
+8. Sign up for API key on https://spoonacular.com/food-api and add it in SearchPage.js
+9. Once the installation of additional modules is finished, type the below command to run the application:
 ```sh
 npm start
 ```
-9. Application is now running, to access it go to Expo on your mobile phone and connect to the localhost running Thrifty Cook either by scanning the QR code with your phone or connecting to the exp:// address returned in the terminal by typing it in Expo manually.
+10. Application is now running, to access it go to Expo on your mobile phone and connect to the localhost running Thrifty Cook either by scanning the QR code with your phone or connecting to the exp:// address returned in the terminal by typing it in Expo manually.
 
 ----------------------------------------------------
 
